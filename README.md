@@ -4,4 +4,4 @@
 
 ### Assignments
 
-[Blumenstock Response](https://github.com/yunkichristian/work/blob/master/blumenstock.md)
+[Blumenstock Response](https://github.com/yunkichristian/work/blumenstock)
