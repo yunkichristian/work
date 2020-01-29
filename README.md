@@ -1,9 +1,7 @@
-# Evolving Solutions
+# DATA 150 - Evolving Solutions
 
-## DATA 150
+## Yunki Lee
 
-### Yunki Lee
-
-Here is a brief bio about me. I am interested in 
+### Assignments
 
 [Blumenstock Response](https://github.com/yunkichristian/work/blob/master/blumenstock.md)
