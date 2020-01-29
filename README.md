@@ -4,4 +4,4 @@
 
 ### Assignments
 
-[Blumenstock Response](https://github.com/yunkichristian/work/blumenstock)
+[Blumenstock Response](https://yunkichristian.github.io/work/blumenstock) (January 27th, 2020)
