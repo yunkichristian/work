@@ -1,5 +1,4 @@
-# DATA 150 - Evolving Solutions
-### Yunki Lee
+# DATA 150 - Evolving Solutions: Yunki Lee
 ---
 ## Responses
 [Blumenstock Response](https://yunkichristian.github.io/work/blumenstock) (January 27th, 2020)
@@ -8,6 +7,5 @@
 
 [Barder Response](https://yunkichristian.github.io/work/Barder%20Response) (February 17th, 2020)
 
----
 ## Assignments
 [Assignment 1](https://yunkichristian.github.io/work/Assignment%1) 
