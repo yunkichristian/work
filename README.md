@@ -1,7 +1,7 @@
 # DATA 150 - Evolving Solutions: Yunki Lee
 ---
 ## Assignments
-[Assignment 1](https://yunkichristian.github.io/work/Assignment%1)
+[Assignment 1](https://yunkichristian.github.io/work/Assignment%201)
 
 ## Responses
 [Blumenstock Response](https://yunkichristian.github.io/work/blumenstock) (January 27th, 2020)
