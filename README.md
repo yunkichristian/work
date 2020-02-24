@@ -10,4 +10,4 @@
 
 [Barder Response](https://yunkichristian.github.io/work/Barder%20Response) (February 17th, 2020)
 
-[Kitchin & Anderson Response](https://yunkichristian.github.io/work/Kitchin%20&%20Anderson%20Response) (February 24th, 2020)
+[Kitchin & Anderson Response](https://yunkichristian.github.io/work/Kitchin%20%26%20Anderson%20Response) (February 24th, 2020)
