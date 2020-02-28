@@ -1,6 +1,8 @@
 # Assignment 1
 ## Problem Statement
 
+Poverty is a dilemma faced across the globe by the civilization of man.  Poverty can be described as living conditions that are detrimental to health, economic development, and comfort.  There are different forms of poverty and different levels of poverty.  Poverty is extremely dangerous because it can lead to higher infant mortality, shorter life spans, lower literacy, environmental degradation, and loss of biodiversity.  In order for greater human development and overall global well-being, poverty must be eradicated.  There are already efforts currently targeting poverty, including anti poverty agencies.  So, how can the Big Data be used to eradicate poverty?
+
 ### Source 1: Blumenstock, J. E. (2016, August 19). doi: [https://doi.org/10.1126/science.aah5217](https://doi.org/10.1126/science.aah5217)
 
 Amartya Sen’s definition of human development is that human development is the expansion of citizens capabilities.  Sen states that freedom means increasing citizens access and opportunities to the things they have reason to value.  This article relates to Amartya Sen’s definition of human development because it talks about the wealth and poverty which are usually measurements of household income and consumption.  Household income and consumption are factors in the expansion of citizen capabilities.  Many households around the world do not have a large enough income to meet their own needs.  Due to this, measurements of poverty around the world are recorded, in order to provide data for anti poverty programs.  
@@ -26,8 +28,7 @@ The paper compares many different countries in Southeast Asia across different p
 
 The paper raises many questions about the problems of past data collection on poverty and inequality.  It investigates these problems and questions the authenticity and accuracy of the data.  It asks questions such as “To what extent do disparities between two sets of data reflect problems in the surveys, including poor design?”  and “ Is it true that there is growing non-compliance and under reporting, not just by the very rich but across the whole spectrum of households?”.  It criticizes the past data collection and estimation of poverty across many countries in Southeast Asia, and it emphasizes the importance of accurate estimation of poverty across Southeast Asia in order to combat the major problem.
 
-### Source 3:
-Elvidge, C. D., Sutton, P. C., Ghosh, T., Tuttle, B. T., Baugh, K. E., Bhaduri, B., & Bright, E. (2009, May 5). doi: [https://doi.org/10.1016/j.cageo.2009.01.009](https://doi.org/10.1016/j.cageo.2009.01.009) 
+### Source 3: Elvidge, C. D., Sutton, P. C., Ghosh, T., Tuttle, B. T., Baugh, K. E., Bhaduri, B., & Bright, E. (2009, May 5). doi: [https://doi.org/10.1016/j.cageo.2009.01.009](https://doi.org/10.1016/j.cageo.2009.01.009) 
 
 This paper also combats the problem of global poverty and its measurement.  It uses different materials and methods of data collection methods to map global poverty.  These methods include LandScan 2004, Nighttime lights, and the poverty index and calibration.  Through these methods, the group of researchers are able to estimate the number of individuals living in poverty around the world.  It also demonstrates a new way of mapping poverty that can be improved over time through the calibration of poverty estimates and improvement in the accuracy of data collection methods.  
 
