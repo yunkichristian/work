@@ -1,8 +1,7 @@
 # Assignment 1
 ## Problem Statement
 
-### Source 1:
-Blumenstock, J. E. (2016, August 19). doi: [https://doi.org/10.1126/science.aah5217](https://doi.org/10.1126/science.aah5217)
+### Source 1: Blumenstock, J. E. (2016, August 19). doi: [https://doi.org/10.1126/science.aah5217(https://doi.org/10.1126/science.aah5217)
 
 Amartya Sen’s definition of human development is that human development is the expansion of citizens capabilities.  Sen states that freedom means increasing citizens access and opportunities to the things they have reason to value.  This article relates to Amartya Sen’s definition of human development because it talks about the wealth and poverty which are usually measurements of household income and consumption.  Household income and consumption are factors in the expansion of citizen capabilities.  Many households around the world do not have a large enough income to meet their own needs.  Due to this, measurements of poverty around the world are recorded, in order to provide data for anti poverty programs.  
 
@@ -13,8 +12,7 @@ Although many of these methods are useful in measuring wealth and poverty, the d
 
 Although there are some downfalls to these nontraditional methods, they do help data collection around the world for researchers.  Blumenstock’s scientific question through the article is “How might these results change the way that we measure and target poverty?”.  The results are from the different data collection methods that use satellite and mobile phone data.
 
-### Source 2:
-Booth, A. (2019, February 10). doi: [https://doi.org/10.1111/apel.12250](https://doi.org/10.1111/apel.12250)
+### Source 2: Booth, A. (2019, February 10). doi: [https://doi.org/10.1111/apel.12250](https://doi.org/10.1111/apel.12250)
 
 This paper shows the research on the measurement of poverty and inequality in Southeast Asia for the past five decades.  It combines the work done by independent researchers and international agencies. The paper argues that traditional household surveys done by national statistical agencies across Southeast Asia are flawed. It states that the results for individual countries and country comparisons have been mislead due to the flaws of these surveys.  It also states that the estimates of poverty and inequality are usually politically sensitive, and targets governments to create more accurate estimations through their support of the debate on measurement problems.  
 
@@ -40,8 +38,7 @@ The paper takes data from the World Bank and uses different methods to collect d
 LandScan, Nighttime lights, and the poverty index are used to collect data.  LandScan is used to perform spatial allocation of census reported population numbers from models created from spatially disaggregated data.  The first LandScan product used DMSP nighttime lights for the mapping of human satellites.  Nighttime lights are used in the collection of data because they are useful in mapping developed or developing regions.  DMSP is the US Air Force Defense Meteorological Satellite Program which uses the Operational Linescan System for mapping artificial lighting at the earth’s surface.  Many studies have shown the relationship between the DMSP nighttime lights and wealth.  The nighttime lights are used to build open studies of an original poverty map.  Finally, the last method is the poverty index and valibration.  The poverty index is calculated by dividing LandScan 2004 population count by average visible band digital number from the lights. It is able to show places of high poverty through areas with high LandScan population count and dim to no lights from the nighttime lights data.  
 The data collected from these methods were then used to get a percent estimate of poverty in a grid cell, and then the percent estimate was multiplied by the LandScan population grid to create an estimate of the poverty count.  Through the research and data collection, the researchers were able to create a more accurate poverty map.
 
-### Source 4:
-Pokhriyal, N., & Jacques, D. C. (2017, October 31). doi: [https://doi.org/10.1073/pnas.1700319114](https://doi.org/10.1073/pnas.1700319114)
+### Source 4: Pokhriyal, N., & Jacques, D. C. (2017, October 31). doi: [https://doi.org/10.1073/pnas.1700319114](https://doi.org/10.1073/pnas.1700319114)
 
 This paper explains the importance of data collection of poverty for improved diagnosis and policy planning to reach the Sustainable Development Goals.  It recognizes the promise shown through Big Data sources such as data records and satellite imagery.  The main topic of the paper is to combine disparate data sources such as environmental and mobile data to create more accurate predictions of poverty.
 
@@ -51,8 +48,7 @@ It analyzes the use of different data, such as satellite and GIS data, in unders
 
 The materials and methods used to collect and create data were CDRs, Environmental features, and census.  CDRs were analyzed to quantify the mobile use pattern of a subscriber.  The environmental features were three broad categories, and these were food security, economic activity, and access to services.  These three were chosen because they seem to cover most of the features that are significantly related to poverty in the literature.  This data was available in raster grid or in vector format.  All the data was converted to raster data and were combined to show specific commune values.  Census data was used to create commune poverty statistics, and then all the data was used to create models in order to predict and map poverty more accurately.  
 
-### Source 5:
-Steel, J.E., Sundsøy, P.R., Pezzulo, C., Alegana, V. A., Bird, T. J., Blumenstock, J., … Bengtsson, L. (2017, February 1). doi: [https://doi.org/10.1098/rsif.2016.0690](https://doi.org/10.1098/rsif.2016.0690)
+### Source 5: Steel, J.E., Sundsøy, P.R., Pezzulo, C., Alegana, V. A., Bird, T. J., Blumenstock, J., … Bengtsson, L. (2017, February 1). doi: [https://doi.org/10.1098/rsif.2016.0690](https://doi.org/10.1098/rsif.2016.0690)
 
 The paper first starts out by describing poverty and its conflicts. It states that eradicating poverty is the major challenge and first target of the Sustainable Development Goals.  In order to eradicate poverty, we must first understand the causes and improve are resources to combat it.  One way to measure poverty is through examining indicators of living standards for a population, but each approach to calculating these indicators have advantages and disadvantages.  There are a variety of indicators and each one provides different characteristics of the population.  As a result, the researchers take different types of data and overlap them to evaluate and estimate three different measures of poverty.
 
