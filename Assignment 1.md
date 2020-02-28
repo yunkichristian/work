@@ -1,7 +1,7 @@
 # Assignment 1
 ## Problem Statement
 
-### Source 1: Blumenstock, J. E. (2016, August 19). doi: [https://doi.org/10.1126/science.aah5217(https://doi.org/10.1126/science.aah5217)
+### Source 1: Blumenstock, J. E. (2016, August 19). doi: [https://doi.org/10.1126/science.aah5217](https://doi.org/10.1126/science.aah5217)
 
 Amartya Sen’s definition of human development is that human development is the expansion of citizens capabilities.  Sen states that freedom means increasing citizens access and opportunities to the things they have reason to value.  This article relates to Amartya Sen’s definition of human development because it talks about the wealth and poverty which are usually measurements of household income and consumption.  Household income and consumption are factors in the expansion of citizen capabilities.  Many households around the world do not have a large enough income to meet their own needs.  Due to this, measurements of poverty around the world are recorded, in order to provide data for anti poverty programs.  
 
