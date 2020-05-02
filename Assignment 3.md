@@ -18,6 +18,7 @@ The research question is an evaluative inquiry as it is examining the effectiven
 The data used for the prediction of poverty in the Philippines came from five different data sources.  All the data sources are reliable and have been used by many different studies.  The data sources are the 2017 Philippine Demographic and Health Survey (DHS), the Visible Infrared Imaging Radiometer Suite Day/Night Band (VIIRSDNB) for the year 2016, The High Resolution Settlement Layer dataset, and OpenStreetMap.  
 
 The data used in the study are in the table below.
+
 ![Dataset](https://user-images.githubusercontent.com/60199765/80864691-3f929780-8c52-11ea-8c32-4549b610bcc1.png)
 
 Through the data the researchers focused on wealth index, education completed, access to electricity, and access to water.  These four datasets are captured by the DHS and are used to create data by the researchers.  
