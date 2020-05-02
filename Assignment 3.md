@@ -4,7 +4,7 @@
 ## Yunki Lee
 
 ### Introduction
-Poverty is a problem faced globally whether it is in highly developed regions or non-developed regions.  Due to the circumstances of today’s world, many people face poverty due to the economy, social classes, or environment around them.  The most restricting characteristic of poverty is the income of individuals.  In fact studies show that nearly half of the world’s population lives on two dollars and fifty cents a day.  Another shows that a third of the global population faces extreme poverty which is less than a dollar and twenty five cents a day.  
+Poverty is a problem faced globally whether it is in highly developed regions or non-developed regions.  Due to the circumstances of today’s world, many people face poverty due to the economy, social classes, or environment around them.  The most restricting characteristic of poverty is the income of individuals.  In fact studies show that nearly half of the world’s population lives on two dollars and fifty cents a day.  Another shows that a 1.3 billion people of the global population face extreme poverty which is less than a dollar and twenty five cents a day.  
 
 Poverty is described as living conditions that are detrimental to health, economic development, and comfort.  There are different forms and levels of poverty.  Poverty is extremely harmful because it can lead to higher infant mortality, shorter life spans, lower literacy, environmental degradation, and the loss of biodiversity.  Poverty threatens human development and overall well-being globally.
 
