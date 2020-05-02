@@ -3,6 +3,8 @@
 ## Assignments
 [Assignment 1](https://yunkichristian.github.io/work/Assignment%201)
 
+[Assignment 2](https://yunkichristian.github.io/work/Assignment%202)
+
 ## Responses
 [Blumenstock Response](https://yunkichristian.github.io/work/blumenstock) (January 27th, 2020)
 
